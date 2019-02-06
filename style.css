@@ -41,6 +41,14 @@ body {
   opacity: 0.9;
 }
 
+/* Add a card effect for articles */
+.card_2 {
+  background-color: white;
+  padding: 10px;
+  margin-left: 20px;
+  opacity: 0.8;
+}
+
 .vertical-menu {
   width: 200px; /* Set a width if you like */
   margin-left: 50px;
