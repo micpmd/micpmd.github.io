@@ -8,9 +8,15 @@ body {
 	background-repeat:no-repeat;
 	background-size: 100% 100%;
 	background-color: #eee;
+	
 }
-
+::-webkit-scrollbar { 
+    display: none; 
+}
 .column {
+	overflow-y: scroll;
+    position:relative;
+    height: 600px;
   float: left;
 }
 
